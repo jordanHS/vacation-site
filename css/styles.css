@@ -1,0 +1,13 @@
+.jumbotron {
+font-family: cursive;
+  color: #293fa3;
+}
+.well {
+  font-style: italic;
+  font-size: 24px;
+}
+.panel-body {
+  font-weight: bold;
+  font-family: serif;
+  font-size: 24px
+}
